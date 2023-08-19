@@ -2,6 +2,8 @@
 
 This Python script generates an image of the Mandelbrot set, a famous fractal. The image is saved as "mandelbrot.png."
 
+Created for my fractal tutorial here: https://kersed.net/posts/python-fractals/
+
 ## Requirements
 
 The script requires the following Python libraries:
@@ -10,6 +12,7 @@ The script requires the following Python libraries:
 - NumPy
 
 You can install these dependencies using pip, like so:
+
 `pip install pillow numpy`
 
 ## How it Works
